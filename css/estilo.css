@@ -1,0 +1,155 @@
+body {
+    margin: 0 auto;
+}
+
+div {
+    text-align: center;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 0;
+}
+
+h2 {
+    color: #6893b2;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 21px;
+    line-height: 5px;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p span {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.azul {
+    color: #6893b2;
+}
+
+.amarelo {
+    color: #D5E000;
+}
+
+.topo {
+    background-color: #b0ddfc;
+}
+
+.topo img {
+    width: 200px;
+}
+
+.topo a {
+    padding-left: 15px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #3a4f60;
+}
+
+.banner img {
+    margin-top: 25px;
+    width: 950px;
+}
+
+.imoveis {
+    width: 880px;
+}
+
+.imoveis img {
+    width: 400px;
+    margin: 20px;
+}
+
+.imoveis p {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin: 0 auto;
+    line-height: 30px;
+}
+
+.servicos {
+    background-color: #3B2DFF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.servicos h3 {
+    color: #ffffff;
+}
+
+.servicos p {
+    width: 700px;
+    font-size: 20px;
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0 auto;
+    line-height: 30px;
+}
+
+.servicos ul {
+    width: 135px;
+    margin: 40px auto 40px;
+}
+
+.servicos li {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30px;
+}
+
+.corretores img {
+    width: 450px;
+    margin-bottom: 20px;
+}
+
+.corretores p {
+    width: 900px;
+    margin: 0 auto;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.contato {
+    background-color: #3B2DFF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.contato h3 {
+    color: #ffffff;
+}
+
+.contato iframe {
+    width: 700px;
+    height: 300px;
+}
+
+.contato p {
+    width: 900px;
+    margin: 20px auto;
+    font-size: 18.5px;
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 10px;
+}
+
+.contato a {
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 20px;
+    border-radius: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.contato li {
+    line-height: 30px;
+}
